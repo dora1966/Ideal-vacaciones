@@ -1,0 +1,30 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+div{
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+    align-items: left;
+    background-image: url("caribe.jpeg");
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    }
+
+h1{
+    color: white;
+    font-size: 80px;
+    font-weight: 200;
+    padding: 100px;
+}
+
+h2{
+    color: white;
+    font-size: 70px;
+    font-weight: 200;
+    padding: 100px;
+   }
